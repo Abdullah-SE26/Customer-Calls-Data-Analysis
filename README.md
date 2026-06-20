@@ -108,4 +108,3 @@ The final output is a clean, consistent, and analysis-ready customer calls datas
 
 **Muhammad Abdullah Saleem**
 
-Software Engineering Graduate transitioning into Data Analytics, focusing on Python, SQL, Power BI, and data-driven problem solving.
